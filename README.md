@@ -1,6 +1,6 @@
 # Quiz Frame
 
-This project is deployed to https://quiz-frame.vercel.app
+This project is deployed to 
 
 ## TODO 
 
