@@ -1,6 +1,6 @@
 # Quiz Frame
 
-A farcaster frame that allows users to take quizzies. Submission for the Bountycaster xmpt challenge.
+This project is deployed to https://quiz-frame.vercel.app
 
 ## TODO 
 
@@ -25,10 +25,6 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-Open frame gear and paste http://localhost:3000 to test out the frame.
-
-Navigate to http://localhost:3000/chat to use XMTP chat.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
