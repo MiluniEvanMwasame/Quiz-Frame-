@@ -2118,6 +2118,11 @@
 "@protobufjs/utf8@^1.1.0":
   "version" "1.1.0"
 
+"@reactivers/next-og@^1.0.4":
+  "integrity" "sha512-rTe2sA7N5ai73pigKk6/SOQEIg9/94g8Qqa1Q1DHecwi+ioA9lg6vv/5QanGw1qeyZkw7UoSvJya7V4opLy13A=="
+  "resolved" "https://registry.npmjs.org/@reactivers/next-og/-/next-og-1.0.4.tgz"
+  "version" "1.0.4"
+
 "@rollup/plugin-babel@^5.2.0":
   "integrity" "sha512-WFfdLWU/xVWKeRQnKmIAQULUI7Il0gZnBIH/ZFO069wYIfPu+8zrfp/KMW0atmELoRDq8FbiP3VCss9MhCut7Q=="
   "resolved" "https://registry.npmjs.org/@rollup/plugin-babel/-/plugin-babel-5.3.1.tgz"
@@ -7909,7 +7914,7 @@
   "resolved" "https://registry.npmjs.org/neo-async/-/neo-async-2.6.2.tgz"
   "version" "2.6.2"
 
-"next@13.5.6":
+"next@^12.0.0", "next@13.5.6":
   "integrity" "sha512-Y2wTcTbO4WwEsVb4A8VSnOsG1I9ok+h74q0ZdxkwM3EODqrs4pasq7O0iUxbcS9VtWMicG7f3+HAj0r1+NtKSw=="
   "resolved" "https://registry.npmjs.org/next/-/next-13.5.6.tgz"
   "version" "13.5.6"
@@ -9280,7 +9285,7 @@
   optionalDependencies:
     "fsevents" "^2.3.2"
 
-"react@^18", "react@^18.0.0", "react@^18.2.0", "react@>= 16", "react@>= 16.8.0", "react@>= 16.8.0 || 17.x.x || ^18.0.0-0", "react@>=16":
+"react@^18", "react@^18.0.0", "react@^18.0.0 || ^17.0.0 || ^16.8.0", "react@^18.2.0", "react@>= 16", "react@>= 16.8.0", "react@>= 16.8.0 || 17.x.x || ^18.0.0-0", "react@>=16":
   "integrity" "sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ=="
   "resolved" "https://registry.npmjs.org/react/-/react-18.2.0.tgz"
   "version" "18.2.0"

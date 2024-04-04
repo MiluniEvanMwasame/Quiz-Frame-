@@ -1,6 +1,6 @@
-import { QUIZ_CONFIG } from "@/app/config/quizConfig";
-import { buildFrameMetaHTML, getButtonIndex } from "@/app/utils/framesUtils";
-import { getPreviousAnswerValue } from "@/app/utils/quizUtils";
+import { QUIZ_CONFIG } from "../../config/quizConfig";
+import { buildFrameMetaHTML, getButtonIndex } from "../../utils/framesUtils";
+import { getPreviousAnswerValue } from "../../utils/quizUtils";
 import { NextResponse, NextRequest } from "next/server";
 
 // show quiz question in image
